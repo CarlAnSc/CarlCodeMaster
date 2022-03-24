@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @CarlCodeMaster
-- 🇩🇰
+- 👋 Hi, I’m @CarlCodeMaster, Carl Anton Schmidt. 
+- 🇩🇰 I'm Danish.
+- 🍇 Currently studying a bachelor of "AI and Data" in DTU.
