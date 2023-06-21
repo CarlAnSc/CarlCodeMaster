@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @CarlAnSc, Carl Anton Schmidt. 
 - 🇩🇰 I'm Danish.
-- 🍇 Currently studying a bachelor of "AI and Data" in DTU.
+- . Completed bachelor of "AI and Data" in DTU.
+- 🍇 Currently a master student of "Human centered AI" in DTU.
 - ☀️ Most profound work: "DeepSolarDK: How much solar is deployed in Denmark." 
